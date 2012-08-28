@@ -1,4 +1,6 @@
 //The main game js file -- its ok if u screw it up..
+//v are going to develop it as a jquery plugin
+
 (function($, window, document, undefined){
 	console.log("Js script loaded successfully");
 	$.fn.minesweeper = function (options){
