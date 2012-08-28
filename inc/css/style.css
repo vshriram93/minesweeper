@@ -1,0 +1,11 @@
+body{
+	background: #fff;
+}
+
+#id{
+	/*do not change the width and height of the game arena. This dimension is perfect for realising it as a facebook app..*/
+	width: 640px;
+	height: 480px;
+	background: #999;
+	color: #000;
+}
